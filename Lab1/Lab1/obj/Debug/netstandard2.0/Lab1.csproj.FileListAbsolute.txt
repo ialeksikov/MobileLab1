@@ -1,0 +1,12 @@
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\bin\Debug\netstandard2.0\Lab1.deps.json
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\bin\Debug\netstandard2.0\Lab1.dll
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\bin\Debug\netstandard2.0\Lab1.pdb
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.csprojAssemblyReference.cache
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.csproj.CoreCompileInputs.cache
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.AssemblyInfoInputs.cache
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.AssemblyInfo.cs
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.dll
+D:\ShitEating\Mobile\Lab1\Lab1\Lab1\obj\Debug\netstandard2.0\Lab1.pdb

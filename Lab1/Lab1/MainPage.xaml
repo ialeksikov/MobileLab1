@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Lab1"
+             x:Class="Lab1.MainPage">
+
+    <StackLayout>
+        <Label Text="Lab 1 Created by Ihor Aleksykov IS-62" 
+           HorizontalOptions="Center"
+           VerticalOptions="Start" FontSize="Large"/>
+        <Label Text="Please, input your qustion..." 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" FontSize="Large"/>
+        <Editor x:Name="input"/>
+        <FlexLayout Direction="Row"
+                AlignItems="Center"
+                JustifyContent="SpaceEvenly">
+            <Label FontSize="40">No</Label>
+            <Switch x:Name="swYesNo" IsToggled="false" />
+            <Label FontSize="40" >Yes</Label>
+        </FlexLayout>
+        <Button Text="OK" FontSize="40" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
